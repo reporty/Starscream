@@ -1,0 +1,4 @@
+module SwiftCommonCrypto [system] {
+  header "/Applications/Xcode9.2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/CommonCrypto/CommonCrypto.h"
+  export *
+}
